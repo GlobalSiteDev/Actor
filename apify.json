@@ -1,0 +1,12 @@
+{
+	"name": "amazonTest",
+	"actId": "c2NCDLv9R89f5uqDF",
+	"version": {
+		"versionNumber": "0.1",
+		"buildTag": "latest",
+		"envVars": [],
+		"sourceType": "TARBALL",
+		"tarballUrl": "https://api.apify.com/v2/key-value-stores/viMoNtnhDRBbiFfYq/records/amazonTest-0.1.zip?disableRedirect=true"
+	},
+	"template": "puppeteer_crawler"
+}
